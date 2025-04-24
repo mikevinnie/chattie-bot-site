@@ -70,6 +70,3 @@ export default function ChattieBotPage() {
     </div>
   );
 }
-export const getServerSideProps = async () => {
-  return { props: {} };
-};
